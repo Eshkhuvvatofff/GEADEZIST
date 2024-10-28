@@ -3,4 +3,4 @@ export interface GetClientAllResponse {
   "lastName": string
   "categoryName": string
   "correctAnswers": string
-},
+}
